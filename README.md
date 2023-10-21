@@ -36,7 +36,7 @@ Learning Flutter
 
    ### 🎨 Frameworks.
 
-  ![Flutter](https://custom-icon-badges.herokuapp.com/badge/-flutter-%23042B59?style=flat&logo=flutter&logoColor=white&labelColor=111)
+  ![Flutter](https://custom-icon-badges.herokuapp.com/badge/-Flutter-%23042B59?style=flat&logo=flutter&logoColor=white&labelColor=111)
    
    ### 💾 Databases and cloud hosting.
   
